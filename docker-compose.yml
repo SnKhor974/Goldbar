@@ -1,0 +1,22 @@
+services:
+  paymentgatewayapi:
+    build:
+      context: .
+      dockerfile: Dockerfile.PaymentGatewayAPI      
+    ports:
+      - "6666:6666"
+    depends_on:
+      - callbackapi
+      - consumer
+
+  callbackapi:
+    build:
+      context: .
+      dockerfile: Dockerfile.CallbackAPI
+    ports:
+      - "6667:6667"
+
+  consumer:
+    build:
+      context: .
+      dockerfile: Dockerfile.Consumer

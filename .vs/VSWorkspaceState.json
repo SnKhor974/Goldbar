@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CallbackAPI",
+    "\\CallbackAPI\\CallbackAPI",
+    "\\CallbackAPI\\CallbackAPI\\Controllers",
+    "\\Consumer",
+    "\\Consumer\\Consumer",
+    "\\Consumer\\Consumer\\Services",
+    "\\Consumer\\Consumer\\Services\\Deposit",
+    "\\Consumer\\Consumer\\Services\\Deposit\\Coin2Pay",
+    "\\Consumer\\Consumer\\Services\\Deposit\\Coin2Pay\\Contract",
+    "\\Consumer\\Consumer\\Services\\Withdraw",
+    "\\Consumer\\Consumer\\Services\\Withdraw\\Coin2Pay"
+  ],
+  "SelectedNode": "\\CallbackAPI\\CallbackAPI\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

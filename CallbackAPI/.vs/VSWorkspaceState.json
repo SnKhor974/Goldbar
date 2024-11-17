@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CallbackAPI",
+    "\\CallbackAPI\\Extensions",
+    "\\CallbackAPI\\Extensions\\Queue",
+    "\\CallbackAPI\\Extensions\\Queue\\RabbitMQ"
+  ],
+  "SelectedNode": "\\CallbackAPI\\Extensions\\Queue\\RabbitMQ\\RabbitMQConnector.cs",
+  "PreviewInSolutionExplorer": false
+}

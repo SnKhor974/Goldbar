@@ -1,0 +1,27 @@
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
+WORKDIR /app
+
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+ARG BUILD_CONFIGURATION=Release
+
+WORKDIR /src
+COPY ["PaymentGatewayAPI/PaymentGatewayAPI/PaymentGatewayAPI.csproj", "PaymentGatewayAPI/"]
+COPY ["Extensions/Extensions/Extensions.csproj", "PaymentGatewayAPI/"]
+RUN dotnet restore "PaymentGatewayAPI/PaymentGatewayAPI.csproj"
+COPY . .
+
+WORKDIR "/src/PaymentGatewayAPI"
+RUN dotnet build "PaymentGatewayAPI/PaymentGatewayAPI.csproj" -c $BUILD_CONFIGURATION -o /app/build
+
+FROM build AS publish 
+ARG BUILD_CONFIGURATION=Release
+RUN dotnet publish "PaymentGatewayAPI/PaymentGatewayAPI.csproj" -c $BUILD_CONFIGURATION -o /app/publish
+
+FROM base AS final
+
+ENV ASPNETCORE_HTTP_PORTS=6666
+EXPOSE 6666
+
+WORKDIR /app
+COPY --from=publish /app/publish .
+ENTRYPOINT ["dotnet", "PaymentGatewayAPI.dll"]

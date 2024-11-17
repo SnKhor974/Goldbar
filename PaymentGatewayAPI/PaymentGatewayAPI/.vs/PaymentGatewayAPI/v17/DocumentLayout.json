@@ -1,0 +1,484 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\services\\withdraw\\coin2pay\\coin2payextensions\\coin2paywithdrawalestimationasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:services\\withdraw\\coin2pay\\coin2payextensions\\coin2paywithdrawalestimationasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\services\\withdraw\\coin2pay\\coin2payextensions\\interface\\icoin2paywithdrawalestimationasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:services\\withdraw\\coin2pay\\coin2payextensions\\interface\\icoin2paywithdrawalestimationasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\services\\withdraw\\coin2pay\\coin2payextensions\\contract\\coin2paywithdrawalestimationassetresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:services\\withdraw\\coin2pay\\coin2payextensions\\contract\\coin2paywithdrawalestimationassetresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\contracts\\order\\withdrawalestimationassetresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:contracts\\order\\withdrawalestimationassetresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\services\\withdraw\\coin2pay\\coin2paywithdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:services\\withdraw\\coin2pay\\coin2paywithdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\services\\deposit\\coin2pay\\contract\\coin2paygetuseraddressresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:services\\deposit\\coin2pay\\contract\\coin2paygetuseraddressresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\repository\\mysql\\savewithdrawtransactiondetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:repository\\mysql\\savewithdrawtransactiondetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\contracts\\merchantsettings\\merchantsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:contracts\\merchantsettings\\merchantsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\services\\deposit\\coin2pay\\coin2paydeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:services\\deposit\\coin2pay\\coin2paydeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\contracts\\order\\depositresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:contracts\\order\\depositresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\contracts\\order\\withdrawalestimationassetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:contracts\\order\\withdrawalestimationassetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\services\\withdraw\\coin2pay\\coin2payextensions\\contract\\coin2paywithdrawalestimationassetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:services\\withdraw\\coin2pay\\coin2payextensions\\contract\\coin2paywithdrawalestimationassetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\repository\\mysql\\savedeposittransactiondetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:repository\\mysql\\savedeposittransactiondetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\contracts\\order\\withdrawresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:contracts\\order\\withdrawresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\contracts\\order\\withdrawrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:contracts\\order\\withdrawrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\contracts\\order\\depositrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:contracts\\order\\depositrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\services\\deposit\\coin2pay\\contract\\coin2paygetuseraddressrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:services\\deposit\\coin2pay\\contract\\coin2paygetuseraddressrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\services\\withdraw\\coin2pay\\contract\\coin2paywithdrawrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:services\\withdraw\\coin2pay\\contract\\coin2paywithdrawrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\paymentgatewayapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:paymentgatewayapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\contracts\\transactiondetails\\deposittransactiondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:contracts\\transactiondetails\\deposittransactiondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\contracts\\keysettings\\keysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:contracts\\keysettings\\keysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\contracts\\transactiondetails\\withdrawtransactiondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:contracts\\transactiondetails\\withdrawtransactiondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\repository\\mysql\\isavewithdrawtransactiondetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:repository\\mysql\\isavewithdrawtransactiondetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\paymentgatewayapi\\paymentgatewayapi\\repository\\mysql\\isavedeposittransactiondetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0718FD6E-A796-4555-912B-42185BE22ED2}|PaymentGatewayAPI.csproj|solutionrelative:repository\\mysql\\isavedeposittransactiondetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WithdrawalEstimationAssetResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Contracts\\Order\\WithdrawalEstimationAssetResponse.cs",
+              "RelativeDocumentMoniker": "Contracts\\Order\\WithdrawalEstimationAssetResponse.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Contracts\\Order\\WithdrawalEstimationAssetResponse.cs",
+              "RelativeToolTip": "Contracts\\Order\\WithdrawalEstimationAssetResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:20:30.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Coin2PayWithdrawalEstimationAssetResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Services\\Withdraw\\Coin2Pay\\Coin2PayExtensions\\Contract\\Coin2PayWithdrawalEstimationAssetResponse.cs",
+              "RelativeDocumentMoniker": "Services\\Withdraw\\Coin2Pay\\Coin2PayExtensions\\Contract\\Coin2PayWithdrawalEstimationAssetResponse.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Services\\Withdraw\\Coin2Pay\\Coin2PayExtensions\\Contract\\Coin2PayWithdrawalEstimationAssetResponse.cs",
+              "RelativeToolTip": "Services\\Withdraw\\Coin2Pay\\Coin2PayExtensions\\Contract\\Coin2PayWithdrawalEstimationAssetResponse.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:21:42.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Coin2PayWithdrawalEstimationAsset.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Services\\Withdraw\\Coin2Pay\\Coin2PayExtensions\\Coin2PayWithdrawalEstimationAsset.cs",
+              "RelativeDocumentMoniker": "Services\\Withdraw\\Coin2Pay\\Coin2PayExtensions\\Coin2PayWithdrawalEstimationAsset.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Services\\Withdraw\\Coin2Pay\\Coin2PayExtensions\\Coin2PayWithdrawalEstimationAsset.cs",
+              "RelativeToolTip": "Services\\Withdraw\\Coin2Pay\\Coin2PayExtensions\\Coin2PayWithdrawalEstimationAsset.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAYwE4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:24:19.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICoin2PayWithdrawalEstimationAsset.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Services\\Withdraw\\Coin2Pay\\Coin2PayExtensions\\Interface\\ICoin2PayWithdrawalEstimationAsset.cs",
+              "RelativeDocumentMoniker": "Services\\Withdraw\\Coin2Pay\\Coin2PayExtensions\\Interface\\ICoin2PayWithdrawalEstimationAsset.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Services\\Withdraw\\Coin2Pay\\Coin2PayExtensions\\Interface\\ICoin2PayWithdrawalEstimationAsset.cs",
+              "RelativeToolTip": "Services\\Withdraw\\Coin2Pay\\Coin2PayExtensions\\Interface\\ICoin2PayWithdrawalEstimationAsset.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:23:35.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Coin2PayWithdraw.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Services\\Withdraw\\Coin2Pay\\Coin2PayWithdraw.cs",
+              "RelativeDocumentMoniker": "Services\\Withdraw\\Coin2Pay\\Coin2PayWithdraw.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Services\\Withdraw\\Coin2Pay\\Coin2PayWithdraw.cs",
+              "RelativeToolTip": "Services\\Withdraw\\Coin2Pay\\Coin2PayWithdraw.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:52:51.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Coin2PayGetUserAddressResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Services\\Deposit\\Coin2Pay\\Contract\\Coin2PayGetUserAddressResponse.cs",
+              "RelativeDocumentMoniker": "Services\\Deposit\\Coin2Pay\\Contract\\Coin2PayGetUserAddressResponse.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Services\\Deposit\\Coin2Pay\\Contract\\Coin2PayGetUserAddressResponse.cs",
+              "RelativeToolTip": "Services\\Deposit\\Coin2Pay\\Contract\\Coin2PayGetUserAddressResponse.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:57:46.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SaveWithdrawTransactionDetailsService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Repository\\MySQL\\SaveWithdrawTransactionDetailsService.cs",
+              "RelativeDocumentMoniker": "Repository\\MySQL\\SaveWithdrawTransactionDetailsService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Repository\\MySQL\\SaveWithdrawTransactionDetailsService.cs",
+              "RelativeToolTip": "Repository\\MySQL\\SaveWithdrawTransactionDetailsService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:05:36.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MerchantSettings.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Contracts\\MerchantSettings\\MerchantSettings.cs",
+              "RelativeDocumentMoniker": "Contracts\\MerchantSettings\\MerchantSettings.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Contracts\\MerchantSettings\\MerchantSettings.cs",
+              "RelativeToolTip": "Contracts\\MerchantSettings\\MerchantSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T20:03:45.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Coin2PayDeposit.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Services\\Deposit\\Coin2Pay\\Coin2PayDeposit.cs",
+              "RelativeDocumentMoniker": "Services\\Deposit\\Coin2Pay\\Coin2PayDeposit.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Services\\Deposit\\Coin2Pay\\Coin2PayDeposit.cs",
+              "RelativeToolTip": "Services\\Deposit\\Coin2Pay\\Coin2PayDeposit.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAYwD8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:39:31.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepositResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Contracts\\Order\\DepositResponse.cs",
+              "RelativeDocumentMoniker": "Contracts\\Order\\DepositResponse.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Contracts\\Order\\DepositResponse.cs",
+              "RelativeToolTip": "Contracts\\Order\\DepositResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:25:20.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WithdrawalEstimationAssetRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Contracts\\Order\\WithdrawalEstimationAssetRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\Order\\WithdrawalEstimationAssetRequest.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Contracts\\Order\\WithdrawalEstimationAssetRequest.cs",
+              "RelativeToolTip": "Contracts\\Order\\WithdrawalEstimationAssetRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:34:35.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Coin2PayWithdrawalEstimationAssetRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Services\\Withdraw\\Coin2Pay\\Coin2PayExtensions\\Contract\\Coin2PayWithdrawalEstimationAssetRequest.cs",
+              "RelativeDocumentMoniker": "Services\\Withdraw\\Coin2Pay\\Coin2PayExtensions\\Contract\\Coin2PayWithdrawalEstimationAssetRequest.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Services\\Withdraw\\Coin2Pay\\Coin2PayExtensions\\Contract\\Coin2PayWithdrawalEstimationAssetRequest.cs",
+              "RelativeToolTip": "Services\\Withdraw\\Coin2Pay\\Coin2PayExtensions\\Contract\\Coin2PayWithdrawalEstimationAssetRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:21:36.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SaveDepositTransactionDetailsService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Repository\\MySQL\\SaveDepositTransactionDetailsService.cs",
+              "RelativeDocumentMoniker": "Repository\\MySQL\\SaveDepositTransactionDetailsService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Repository\\MySQL\\SaveDepositTransactionDetailsService.cs",
+              "RelativeToolTip": "Repository\\MySQL\\SaveDepositTransactionDetailsService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwDMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:05:19.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAIwGwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:48:43.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WithdrawResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Contracts\\Order\\WithdrawResponse.cs",
+              "RelativeDocumentMoniker": "Contracts\\Order\\WithdrawResponse.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Contracts\\Order\\WithdrawResponse.cs",
+              "RelativeToolTip": "Contracts\\Order\\WithdrawResponse.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:41:56.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DepositRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Contracts\\Order\\DepositRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\Order\\DepositRequest.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Contracts\\Order\\DepositRequest.cs",
+              "RelativeToolTip": "Contracts\\Order\\DepositRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:25:19.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T16:45:11.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowCYAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:36:31.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WithdrawRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Contracts\\Order\\WithdrawRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\Order\\WithdrawRequest.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Contracts\\Order\\WithdrawRequest.cs",
+              "RelativeToolTip": "Contracts\\Order\\WithdrawRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:41:35.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Coin2PayGetUserAddressRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Services\\Deposit\\Coin2Pay\\Contract\\Coin2PayGetUserAddressRequest.cs",
+              "RelativeDocumentMoniker": "Services\\Deposit\\Coin2Pay\\Contract\\Coin2PayGetUserAddressRequest.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Services\\Deposit\\Coin2Pay\\Contract\\Coin2PayGetUserAddressRequest.cs",
+              "RelativeToolTip": "Services\\Deposit\\Coin2Pay\\Contract\\Coin2PayGetUserAddressRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T20:11:41.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Coin2PayWithdrawRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Services\\Withdraw\\Coin2Pay\\Contract\\Coin2PayWithdrawRequest.cs",
+              "RelativeDocumentMoniker": "Services\\Withdraw\\Coin2Pay\\Contract\\Coin2PayWithdrawRequest.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Services\\Withdraw\\Coin2Pay\\Contract\\Coin2PayWithdrawRequest.cs",
+              "RelativeToolTip": "Services\\Withdraw\\Coin2Pay\\Contract\\Coin2PayWithdrawRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:57:49.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:36:30.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PaymentGatewayAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\PaymentGatewayAPI.csproj",
+              "RelativeDocumentMoniker": "PaymentGatewayAPI.csproj",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\PaymentGatewayAPI.csproj",
+              "RelativeToolTip": "PaymentGatewayAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T19:56:07.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DepositTransactionDetails.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Contracts\\TransactionDetails\\DepositTransactionDetails.cs",
+              "RelativeDocumentMoniker": "Contracts\\TransactionDetails\\DepositTransactionDetails.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Contracts\\TransactionDetails\\DepositTransactionDetails.cs",
+              "RelativeToolTip": "Contracts\\TransactionDetails\\DepositTransactionDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:42:38.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "KeySettings.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Contracts\\KeySettings\\KeySettings.cs",
+              "RelativeDocumentMoniker": "Contracts\\KeySettings\\KeySettings.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Contracts\\KeySettings\\KeySettings.cs",
+              "RelativeToolTip": "Contracts\\KeySettings\\KeySettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:56:31.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WithdrawTransactionDetails.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Contracts\\TransactionDetails\\WithdrawTransactionDetails.cs",
+              "RelativeDocumentMoniker": "Contracts\\TransactionDetails\\WithdrawTransactionDetails.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Contracts\\TransactionDetails\\WithdrawTransactionDetails.cs",
+              "RelativeToolTip": "Contracts\\TransactionDetails\\WithdrawTransactionDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:43:01.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ISaveWithdrawTransactionDetailsService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Repository\\MySQL\\ISaveWithdrawTransactionDetailsService.cs",
+              "RelativeDocumentMoniker": "Repository\\MySQL\\ISaveWithdrawTransactionDetailsService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Repository\\MySQL\\ISaveWithdrawTransactionDetailsService.cs",
+              "RelativeToolTip": "Repository\\MySQL\\ISaveWithdrawTransactionDetailsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:25:02.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ISaveDepositTransactionDetailsService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Repository\\MySQL\\ISaveDepositTransactionDetailsService.cs",
+              "RelativeDocumentMoniker": "Repository\\MySQL\\ISaveDepositTransactionDetailsService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\PaymentGatewayAPI\\PaymentGatewayAPI\\Repository\\MySQL\\ISaveDepositTransactionDetailsService.cs",
+              "RelativeToolTip": "Repository\\MySQL\\ISaveDepositTransactionDetailsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T20:09:04.018Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

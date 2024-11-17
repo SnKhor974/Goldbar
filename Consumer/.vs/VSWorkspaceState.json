@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Consumer",
+    "\\Consumer\\Consumer",
+    "\\Consumer\\Services",
+    "\\Consumer\\Services\\Deposit",
+    "\\Consumer\\Services\\Deposit\\Coin2Pay",
+    "\\Consumer\\Services\\Withdraw",
+    "\\Consumer\\Services\\Withdraw\\Coin2Pay"
+  ],
+  "SelectedNode": "\\Consumer\\Consumer\\CryptoDepositConsumer.cs",
+  "PreviewInSolutionExplorer": false
+}

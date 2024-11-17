@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\consumer\\consumer\\services\\withdraw\\coin2pay\\coin2paysendwithdrawcallbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|solutionrelative:services\\withdraw\\coin2pay\\coin2paysendwithdrawcallbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\consumer\\consumer\\services\\deposit\\coin2pay\\coin2paysenddepositcallbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|solutionrelative:services\\deposit\\coin2pay\\coin2paysenddepositcallbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\consumer\\consumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\consumer\\consumer\\consumer\\cryptodepositconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|solutionrelative:consumer\\cryptodepositconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\consumer\\consumer\\consumer\\cryptowithdrawconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|solutionrelative:consumer\\cryptowithdrawconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\consumer\\consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\consumer\\consumer\\services\\deposit\\interfaces\\isenddepositcallbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|solutionrelative:services\\deposit\\interfaces\\isenddepositcallbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\consumer\\consumer\\consumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|solutionrelative:consumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\consumer\\consumer\\contracts\\callback\\withdrawcallbackresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|solutionrelative:contracts\\callback\\withdrawcallbackresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\consumer\\consumer\\services\\withdraw\\interfaces\\isendwithdrawcallbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|solutionrelative:services\\withdraw\\interfaces\\isendwithdrawcallbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\consumer\\consumer\\repository\\mysql\\savewithdrawcallbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|solutionrelative:repository\\mysql\\savewithdrawcallbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\consumer\\consumer\\repository\\mysql\\savedepositcallbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|solutionrelative:repository\\mysql\\savedepositcallbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\consumer\\consumer\\repository\\mysql\\isavewithdrawcallbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|solutionrelative:repository\\mysql\\isavewithdrawcallbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\consumer\\consumer\\repository\\mysql\\isavedepositcallbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|solutionrelative:repository\\mysql\\isavedepositcallbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\consumer\\consumer\\contracts\\callback\\depositcallbackresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|solutionrelative:contracts\\callback\\depositcallbackresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\consumer\\consumer\\services\\deposit\\coin2pay\\contract\\coin2paydepositrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|solutionrelative:services\\deposit\\coin2pay\\contract\\coin2paydepositrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\consumer\\consumer\\services\\withdraw\\coin2pay\\contract\\coin2paywithdrawrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|solutionrelative:services\\withdraw\\coin2pay\\contract\\coin2paywithdrawrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\consumer\\consumer\\contracts\\notifyrequest\\notifyorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|solutionrelative:contracts\\notifyrequest\\notifyorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|c:\\users\\user\\onedrive\\documents\\goldbar\\consumer\\consumer\\contracts\\enumerables\\enummerchantcontracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28E3C15-ED39-4C01-BEC2-4EB1DC808687}|Consumer.csproj|solutionrelative:contracts\\enumerables\\enummerchantcontracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coin2PaySendDepositCallbackService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Services\\Deposit\\Coin2Pay\\Coin2PaySendDepositCallbackService.cs",
+              "RelativeDocumentMoniker": "Services\\Deposit\\Coin2Pay\\Coin2PaySendDepositCallbackService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Services\\Deposit\\Coin2Pay\\Coin2PaySendDepositCallbackService.cs",
+              "RelativeToolTip": "Services\\Deposit\\Coin2Pay\\Coin2PaySendDepositCallbackService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowDIAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:04:06.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Coin2PaySendWithdrawCallbackService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Services\\Withdraw\\Coin2Pay\\Coin2PaySendWithdrawCallbackService.cs",
+              "RelativeDocumentMoniker": "Services\\Withdraw\\Coin2Pay\\Coin2PaySendWithdrawCallbackService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Services\\Withdraw\\Coin2Pay\\Coin2PaySendWithdrawCallbackService.cs",
+              "RelativeToolTip": "Services\\Withdraw\\Coin2Pay\\Coin2PaySendWithdrawCallbackService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCwAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T22:42:10.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CryptoDepositConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Consumer\\CryptoDepositConsumer.cs",
+              "RelativeDocumentMoniker": "Consumer\\CryptoDepositConsumer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Consumer\\CryptoDepositConsumer.cs",
+              "RelativeToolTip": "Consumer\\CryptoDepositConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:51:55.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T19:43:13.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CryptoWithdrawConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Consumer\\CryptoWithdrawConsumer.cs",
+              "RelativeDocumentMoniker": "Consumer\\CryptoWithdrawConsumer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Consumer\\CryptoWithdrawConsumer.cs",
+              "RelativeToolTip": "Consumer\\CryptoWithdrawConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T22:38:32.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:06:02.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISendDepositCallbackService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Services\\Deposit\\Interfaces\\ISendDepositCallbackService.cs",
+              "RelativeDocumentMoniker": "Services\\Deposit\\Interfaces\\ISendDepositCallbackService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Services\\Deposit\\Interfaces\\ISendDepositCallbackService.cs",
+              "RelativeToolTip": "Services\\Deposit\\Interfaces\\ISendDepositCallbackService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:04:26.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Consumer.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Consumer.csproj",
+              "RelativeDocumentMoniker": "Consumer.csproj",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Consumer.csproj",
+              "RelativeToolTip": "Consumer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T13:39:44.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SaveDepositCallbackService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Repository\\MySQL\\SaveDepositCallbackService.cs",
+              "RelativeDocumentMoniker": "Repository\\MySQL\\SaveDepositCallbackService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Repository\\MySQL\\SaveDepositCallbackService.cs",
+              "RelativeToolTip": "Repository\\MySQL\\SaveDepositCallbackService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:25:29.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISendWithdrawCallbackService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Services\\Withdraw\\Interfaces\\ISendWithdrawCallbackService.cs",
+              "RelativeDocumentMoniker": "Services\\Withdraw\\Interfaces\\ISendWithdrawCallbackService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Services\\Withdraw\\Interfaces\\ISendWithdrawCallbackService.cs",
+              "RelativeToolTip": "Services\\Withdraw\\Interfaces\\ISendWithdrawCallbackService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T22:39:56.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WithdrawCallbackResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Contracts\\Callback\\WithdrawCallbackResponse.cs",
+              "RelativeDocumentMoniker": "Contracts\\Callback\\WithdrawCallbackResponse.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Contracts\\Callback\\WithdrawCallbackResponse.cs",
+              "RelativeToolTip": "Contracts\\Callback\\WithdrawCallbackResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:21:46.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SaveWithdrawCallbackService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Repository\\MySQL\\SaveWithdrawCallbackService.cs",
+              "RelativeDocumentMoniker": "Repository\\MySQL\\SaveWithdrawCallbackService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Repository\\MySQL\\SaveWithdrawCallbackService.cs",
+              "RelativeToolTip": "Repository\\MySQL\\SaveWithdrawCallbackService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:25:49.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISaveWithdrawCallbackService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Repository\\MySQL\\ISaveWithdrawCallbackService.cs",
+              "RelativeDocumentMoniker": "Repository\\MySQL\\ISaveWithdrawCallbackService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Repository\\MySQL\\ISaveWithdrawCallbackService.cs",
+              "RelativeToolTip": "Repository\\MySQL\\ISaveWithdrawCallbackService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:11:01.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ISaveDepositCallbackService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Repository\\MySQL\\ISaveDepositCallbackService.cs",
+              "RelativeDocumentMoniker": "Repository\\MySQL\\ISaveDepositCallbackService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Repository\\MySQL\\ISaveDepositCallbackService.cs",
+              "RelativeToolTip": "Repository\\MySQL\\ISaveDepositCallbackService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T20:07:51.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DepositCallbackResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Contracts\\Callback\\DepositCallbackResponse.cs",
+              "RelativeDocumentMoniker": "Contracts\\Callback\\DepositCallbackResponse.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Contracts\\Callback\\DepositCallbackResponse.cs",
+              "RelativeToolTip": "Contracts\\Callback\\DepositCallbackResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:21:35.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Coin2PayDepositRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Services\\Deposit\\Coin2Pay\\Contract\\Coin2PayDepositRequest.cs",
+              "RelativeDocumentMoniker": "Services\\Deposit\\Coin2Pay\\Contract\\Coin2PayDepositRequest.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Services\\Deposit\\Coin2Pay\\Contract\\Coin2PayDepositRequest.cs",
+              "RelativeToolTip": "Services\\Deposit\\Coin2Pay\\Contract\\Coin2PayDepositRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:14:06.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Coin2PayWithdrawRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Services\\Withdraw\\Coin2Pay\\Contract\\Coin2PayWithdrawRequest.cs",
+              "RelativeDocumentMoniker": "Services\\Withdraw\\Coin2Pay\\Contract\\Coin2PayWithdrawRequest.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Services\\Withdraw\\Coin2Pay\\Contract\\Coin2PayWithdrawRequest.cs",
+              "RelativeToolTip": "Services\\Withdraw\\Coin2Pay\\Contract\\Coin2PayWithdrawRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T22:44:00.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NotifyOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Contracts\\NotifyRequest\\NotifyOrderRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\NotifyRequest\\NotifyOrderRequest.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Contracts\\NotifyRequest\\NotifyOrderRequest.cs",
+              "RelativeToolTip": "Contracts\\NotifyRequest\\NotifyOrderRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:59:43.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EnumMerchantContracts.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Contracts\\Enumerables\\EnumMerchantContracts.cs",
+              "RelativeDocumentMoniker": "Contracts\\Enumerables\\EnumMerchantContracts.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Goldbar\\Consumer\\Consumer\\Contracts\\Enumerables\\EnumMerchantContracts.cs",
+              "RelativeToolTip": "Contracts\\Enumerables\\EnumMerchantContracts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:01:22.687Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

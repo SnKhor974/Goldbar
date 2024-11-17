@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\CallbackAPI\CallbackAPI\out\CallbackAPI.exe
+C:\Users\User\OneDrive\Documents\CallbackAPI\CallbackAPI\out\appsettings.Development.json
+C:\Users\User\OneDrive\Documents\CallbackAPI\CallbackAPI\out\appsettings.json
+C:\Users\User\OneDrive\Documents\CallbackAPI\CallbackAPI\out\CallbackAPI.dll
+C:\Users\User\OneDrive\Documents\CallbackAPI\CallbackAPI\out\CallbackAPI.deps.json
+C:\Users\User\OneDrive\Documents\CallbackAPI\CallbackAPI\out\CallbackAPI.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\CallbackAPI\CallbackAPI\out\CallbackAPI.pdb
+C:\Users\User\OneDrive\Documents\CallbackAPI\CallbackAPI\out\MassTransit.dll
+C:\Users\User\OneDrive\Documents\CallbackAPI\CallbackAPI\out\MassTransit.Abstractions.dll
+C:\Users\User\OneDrive\Documents\CallbackAPI\CallbackAPI\out\MassTransit.RabbitMqTransport.dll
+C:\Users\User\OneDrive\Documents\CallbackAPI\CallbackAPI\out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\OneDrive\Documents\CallbackAPI\CallbackAPI\out\Microsoft.OpenApi.dll
+C:\Users\User\OneDrive\Documents\CallbackAPI\CallbackAPI\out\Newtonsoft.Json.dll
+C:\Users\User\OneDrive\Documents\CallbackAPI\CallbackAPI\out\BouncyCastle.Crypto.dll
+C:\Users\User\OneDrive\Documents\CallbackAPI\CallbackAPI\out\RabbitMQ.Client.dll

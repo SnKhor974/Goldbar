@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PaymentGatewayAPI",
+    "\\PaymentGatewayAPI\\Contracts",
+    "\\PaymentGatewayAPI\\Contracts\\Coin2PayCryptoWallet",
+    "\\PaymentGatewayAPI\\Services",
+    "\\PaymentGatewayAPI\\Services\\Deposit",
+    "\\PaymentGatewayAPI\\Services\\Deposit\\Coin2Pay",
+    "\\PaymentGatewayAPI\\Services\\Withdraw",
+    "\\PaymentGatewayAPI\\Services\\Withdraw\\Coin2Pay"
+  ],
+  "SelectedNode": "\\PaymentGatewayAPI\\Services\\Withdraw\\Coin2Pay\\Coin2PayWithdraw.cs",
+  "PreviewInSolutionExplorer": false
+}
